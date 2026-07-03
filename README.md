@@ -4,7 +4,8 @@
 <p align="center">
 An AI-powered VS Code extension developed during my Zoho Summer Internship.
 </p>
-## 📌 Overview
+
+ 📌 Overview
 
 AI Coding Assistant is a modern and intelligent **Visual Studio Code extension** developed during my **Zoho Summer Internship** to enhance the software development experience using **Google Gemini AI**.
 
