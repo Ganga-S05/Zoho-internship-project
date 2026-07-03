@@ -31,7 +31,7 @@ This project is more than just an AI chatbot. It combines multiple modern AI tec
 - 🎨 Clean and responsive user interface
 - 💾 Local storage for chats and indexed documents
 
-- # 🎯 Problem Statement
+ # 🎯 Problem Statement
 
 Developers often use different tools while coding. They switch between their code editor, AI chatbot, and documentation websites to get help. This takes time and interrupts their workflow.
 
